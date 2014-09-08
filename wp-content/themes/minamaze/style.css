@@ -2814,3 +2814,12 @@ h4.project-title {
     display: none;
 }
 
+div.entry-meta{
+	display:none;
+}
+header.entry-header{
+	display: none;
+}
+#sub-footer{
+	display: none;
+}
